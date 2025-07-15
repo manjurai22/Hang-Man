@@ -14,6 +14,10 @@ This is a simple **Hangman game** made using Python. You play it in the terminal
 
 ---
 
+## ✅Files in This Project
+- hangman.py → Main game code
+- wordslist.py → (Optional) File where words can be stored
+
 ## ▶️ How to Run the Game
 
 1. Make sure Python is installed (Python 3.x)
