@@ -20,8 +20,8 @@ This is a simple **Hangman game** made using Python. You play it in the terminal
 
 ## ▶️ How to Run the Game
 
-1. Make sure Python is installed (Python 3.x)
-2. Open your terminal or command prompt
+1. Python should be installed (Python 3.x)
+2. Open terminal or command prompt
 3. Run the file:
 
 ```bash
